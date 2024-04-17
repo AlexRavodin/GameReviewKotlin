@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "797763502224",
+    "project_id": "my-test-project-cd10b",
+    "storage_bucket": "my-test-project-cd10b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797763502224:android:66a76a61efc78496d45815",
+        "android_client_info": {
+          "package_name": "com.example.game_review"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0Hkv5pPGYUgIrdLE1Helk3ZCQ-4gikBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797763502224:android:d560a3b60e5face7d45815",
+        "android_client_info": {
+          "package_name": "com.example.gamereview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0Hkv5pPGYUgIrdLE1Helk3ZCQ-4gikBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

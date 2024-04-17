@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Game Review</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="register">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="go_to_sign_up">Go to Sign Up</string>
+    <string name="favorite_genre">Favorite genre</string>
+    <string name="favorite_game">Favorite game</string>
+    <string name="age">Age</string>
+    <string name="my_account">My account</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="name_details">Name</string>
+    <string name="favorite_genre_details">Favorite Genre</string>
+    <string name="favorite_game_details">Favorite Game</string>
+    <string name="age_details">Age</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="description">Description: %1$s</string>
+    <string name="genres">Genres: %1$s</string>
+    <string name="minimum_age">Minimum Age: %1$s</string>
+</resources>

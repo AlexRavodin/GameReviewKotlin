@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <!-- Кнопка Account, расположенная в верхней части -->
+    <Button
+            android:id="@+id/buttonAccount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/my_account"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="16dp" />
+
+    <!-- Переключатель "Show Favorites Only" -->
+    <Switch
+            android:id="@+id/switchFavoritesOnly"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/buttonAccount"
+            android:layout_centerHorizontal="true"
+            android:text="Show Favorites Only"
+            android:layout_marginTop="16dp"/>
+
+    <!-- ListView для отображения списка игр -->
+    <ListView
+            android:id="@+id/listView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/switchFavoritesOnly"
+            android:layout_marginTop="8dp" />
+
+</RelativeLayout>
